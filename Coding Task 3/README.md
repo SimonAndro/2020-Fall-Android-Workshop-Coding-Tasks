@@ -1,1 +1,1 @@
-Getting User Input
+Getting and manipulating User Input
