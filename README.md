@@ -8,7 +8,7 @@ The Coding Tasks are categorized as below:
 1. UI design (Linear layout, frame layout, textview, image view, others)
 2. Intents and Activity navigation (implicit and explicit intents)
 3. Getting User Input(radio button, checkbox, text editor)
-4. App Menu
+4. App bar actions
 5. Recycling views 
 6. Final Project-: Combine the modules you have learnt to creatively design a simple Android app.
 Share it with your friends and family, and feel happy about your first android App. 
