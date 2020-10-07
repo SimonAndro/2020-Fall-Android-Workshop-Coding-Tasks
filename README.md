@@ -12,4 +12,4 @@ The Coding Tasks are categorized as below:
 5.Coding Task 5 - Recycling views 
 6. Final Project-: Combine the modules you have learnt to creatively design a simple Android app.
 Share it with your friends and family, and feel happy about your first android App. 
-Wish you the best as you take Android App development to the Next Level.
+Wish you the best as you take Android App development to the Next Level...
